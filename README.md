@@ -1,4 +1,4 @@
-# Machine Learning User Behavior Analytics
+# [Classification] User Purchase Behavior Analytics
 
 Expedia.com, a large online travel agency (OTA), has collected a rich dataset on search behaviors. The dataset contains detailed information of all properties that were displayed in each search session (srch_id), whether the customer clicked on a property (click_bool) and whether he/she made a booking (booking_bool).
 
